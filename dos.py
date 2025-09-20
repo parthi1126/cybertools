@@ -4,7 +4,7 @@ import time
 from datetime import datetime
 
 # Configuration
-TARGET_URL = "https://your-website.com"  # Replace with your website URL
+TARGET_URL = "https://xnxx.com"  # Replace with your website URL
 NUM_REQUESTS = 100  # Total number of requests
 CONCURRENT_THREADS = 10  # Number of concurrent threads
 DELAY_BETWEEN_REQUESTS = 0.1  # Delay in seconds between requests in each thread
